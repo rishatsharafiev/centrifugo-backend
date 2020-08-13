@@ -1,9 +1,12 @@
 # centrifugo-backend
 
 # TODO
+[X] подключить мониторинг
+[X] добавить дашбоард для centrifugo
 [ ] настройка различных окружений 
-[ ] проверить конфиг nginx на тесте 
-[ ] подключить мониторинг
+[ ] проверить конфиг nginx на тесте
+[ ] metalmatze/alertmanager-bot
+[ ] docker-swarm
 
 # Настройки
 ### Конфиг centrifugo
