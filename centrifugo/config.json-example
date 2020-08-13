@@ -1,7 +1,7 @@
 {
     "v3_use_offset": true,
 
-    "port": 9005,
+    "port": 8000,
 
     "engine": "redis",
     "redis_host": "redis",
@@ -15,5 +15,6 @@
     "token_hmac_secret_key": "<YOUR-SECRET-STRING-HERE>",
     "api_key": "<YOUR-API-KEY-HERE>",
 
-    "debug": false
+    "debug": false,
+    "prometheus": true
 }

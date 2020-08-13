@@ -17,3 +17,6 @@ media/
 *.xml
 redis/data/
 centrifugo/config.json
+prometheus/data
+grafana/data
+
