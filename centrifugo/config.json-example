@@ -1,0 +1,19 @@
+{
+    "v3_use_offset": true,
+
+    "port": 9005,
+
+    "engine": "redis",
+    "redis_host": "redis",
+    "redis_port": "6379",
+    "redis_db": 0,
+
+    "admin": true,
+    "admin_password": "<YOUR-SECRET-STRING-HERE>",
+    "admin_secret": "<YOUR-SECRET-STRING-HERE>",
+
+    "token_hmac_secret_key": "<YOUR-SECRET-STRING-HERE>",
+    "api_key": "<YOUR-API-KEY-HERE>",
+
+    "debug": false
+}
